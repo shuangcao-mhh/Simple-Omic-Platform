@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/1156434418.svg)](https://doi.org/10.5281/zenodo.18623747)
-# 🔬 AG Schmidt-Ott Omics Hub
+# 🔬 Simple-Omics-Hub
 
 An automated multi-omics analysis platform designed for HPC environments. This tool streamlines complex bioinformatics workflows into a user-friendly GUI.
 
