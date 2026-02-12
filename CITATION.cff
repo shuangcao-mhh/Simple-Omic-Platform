@@ -1,7 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-authors: Shuang Cao
-title: "AG_Schmidt-Ott-Omics-Hub: Automated Multi-Omics Platform"
-version: 1.1.0
-date-released: 2026-02-20
-url: "https://github.com/shuangcao-mhh/AG_Schmidt-Ott-Omics-Hub"
+authors:
+  - family-names: "Cao"
+    given-names: "Shuang"
+    affiliation: "Hannover Medical School (MHH)"
+title: "AG_Schmidt-Ott-Omics-Hub"
+version: 1.0.0
+date-released: 2026-02-12
+url: "https://github.com/shuangcao-mhh/MHH-Omics-Analysis-Platform"
